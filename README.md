@@ -1,4 +1,4 @@
-# Photo organization Script
+# Photo Organization Script
 ## What is it?
 Appends the date ("yyyymmdd_hhmmss - picturename") to all the pictures in a folder.
 You also have the option to automatically create and move the pictures into a folder ("yyyymm") if you so choose.
